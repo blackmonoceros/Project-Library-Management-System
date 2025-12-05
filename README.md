@@ -34,6 +34,6 @@ books by year of publication.
 
 Reports Class:
 Responsible for generating reports on book availability, loan history. Reports must be saved to files in the selected format
-(txt, csv, xlsx).
+(txt, csv, xlsx)...
 
 **(code in PL)
